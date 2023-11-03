@@ -3,7 +3,7 @@
 const page = () => {
     return (
         <div>
-            <h1>Collage Login Page</h1>
+            <h1 className="heading">Collage Login Page</h1>
         </div>
     )
 }

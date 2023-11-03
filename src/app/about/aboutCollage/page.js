@@ -3,7 +3,7 @@
 const page = () => {
     return (
         <div>
-            <h1>About Collage Page</h1>
+            <h1 className="heading">About Collage Page</h1>
         </div>
     )
 }
